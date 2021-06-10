@@ -1,2 +1,2 @@
-# constitution-of-india
+# Constitution-of-India
 Constitution of India in JSON Format
